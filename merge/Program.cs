@@ -10,7 +10,7 @@ namespace merge
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("mergemain");
+            Console.WriteLine("mergeAlpha");
         }
     }
 }
